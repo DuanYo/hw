@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">B10809003</string>
+    <string name="Welcome">歡迎！</string>
+    <string name="Enter">進入</string>
+    <string name="button_click">按鈕</string>
+    <string name="detailed">詳細</string>
+    <string name="scan">開啟掃描</string>
+    <string name="back">回上頁</string>
+    <string name="detailed_msg">詳細資訊</string>
+</resources>
